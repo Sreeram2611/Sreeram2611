@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am Sreeram Palani
 <!--
 **Sreeram2611/Sreeram2611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Snake animation](https://raw.githubusercontent.com/Sreeram2611/Sreeram2611/output/github-contribution-grid-snake.svg)
