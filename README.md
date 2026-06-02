@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Sreeram Palani
+I'm Sreeram Palani
 <!--
 **Sreeram2611/Sreeram2611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
