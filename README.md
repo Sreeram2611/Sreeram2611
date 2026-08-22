@@ -1,4 +1,4 @@
-# Sreeram Palani
+# Hi I'm Sreeram Palani
 🎓 I’m a **Pre-Final-Year B.Tech Computer Science student specializing in Cybersecurity**.<br>🔭 I’m currently working on **Cybersecurity projects, web applications, and AI-powered security solutions**.<br>👯 I’m looking to collaborate on **Open Source, Cybersecurity, AI/ML, Web Development, and Hackathon projects**.<br>🌱 I’m currently learning **Ethical Hacking, Network Security, Web Security, Python, AI/ML, and Secure Software Development**.<br>🚀 I enjoy **turning ideas into real-world projects and experimenting with new technologies**.<br>⚡ Fun fact: **I learn best by building things, breaking things, and figuring out how to secure them. 😄**<br>📚 Currently focused on **strengthening my technical skills and preparing for cybersecurity career opportunities**.<br><br>🌐 Portfolio: [sreerampalani.vercel.app](https://sreerampalani.vercel.app/)<br>
 
 
